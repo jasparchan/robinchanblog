@@ -7,8 +7,9 @@ cache:
   directories:
   - node_modules
 before_install:
-- openssl aes-256-cbc -K $encrypted_372fe9aee9a2_key -iv $encrypted_372fe9aee9a2_iv
+- openssl aes-256-cbc -K $encrypted_6251d2fbc36c_key -iv $encrypted_6251d2fbc36c_iv
   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
+
  # 改变文件权限
 - chmod 600 ~/.ssh/id_rsa
 # 配置 ssh
