@@ -1,0 +1,26 @@
+language: node_js
+sudo: false
+branches:
+  only:
+  - master
+cache:
+  directories:
+  - node_modules
+before_install:
+- openssl aes-256-cbc -K $encrypted_372fe9aee9a2_key -iv $encrypted_372fe9aee9a2_iv
+  -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
+ # 改变文件权限
+- chmod 600 ~/.ssh/id_rsa
+# 配置 ssh
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
+- git config --global user.name 'jesparchan'
+- git config --global user.email me@robinchan.cn
+install:
+- npm install hexo-cli -g
+- npm install
+script:
+- hexo clean
+- hexo g
+- hexo d
