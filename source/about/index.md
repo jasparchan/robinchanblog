@@ -1,5 +1,5 @@
 ---
-title: about
+title: 关于我
 date: 2015-07-06 17:41:10
 
 ---
@@ -11,6 +11,7 @@ That's why we love, trust, to face it together with someone.
     print("Hello, everybody! You can say something below.")
     let name = "RobinChan"
     let location = "GuangZhou"
+    let love = "J"
     let email = "me#robinchan.cn"
     var sports = ["Cycling", "Hiking", "Running", "Basketball", "Swimming"]    
     var hobbies = ["Computer", "Travel", "Photography", "Music"]    

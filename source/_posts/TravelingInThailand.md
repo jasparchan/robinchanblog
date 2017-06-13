@@ -13,7 +13,7 @@ tags: 旅游
   ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%203.jpg)
   早上巴东海滩涨潮，我们看到好几个Strong Man在那冲浪，我只能用个帅字形容。在三亚我也未曾见过，这是我第一次看到人冲浪。当他征服了那个浪后，满是兴奋，呼叫声，掌声...这让我想起《蓝色激情》这部电影。有机会我也去体验这一项运动。
   是的，今天2016.06.19，我会记住今天的。fingers in fingers
-  <!--[image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%202.jpg)-->
+  ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%202.jpg)
 ##### 抓鱼&Music    
   20日没有预定了解到的一个游玩项目，这里有点遗憾没看到大象。下午换酒店后，大家说休息下，而我跑去游泳，想不到20分钟后刮起了雷阵雨，冷得我直啰嗦。雨后我们去踩沙滩，一人一个重重的椰子，走出来还是漂起小雨。没事，我们有伞，就那样，一步一步，偶尔被浪水打湿了衣服。每个人都藏着一颗童心，我们在海边抓小鱼和小蟹，此时应该是那个笑cry的表情，哈哈。
 > 伸手想去抓鱼，可是鱼总比手跑得快，就像时间一样，刻意去捕捉想留住，有时却不尽人意。
@@ -23,7 +23,7 @@ tags: 旅游
   ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%206.jpg)  
   这时候，应该来首歌，写得不多，听首歌将就下。歌曲后面的SOLO是在太赞了...
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=52 src="http://music.163.com/outchain/player?type=2&id=26289183&auto=0&height=32"></iframe>20日晚上饭后逛街时，被饭桌时见到的几个老外叫进一间小酒吧，醉翁之意不在酒，里面的乐队很赞，虽然没能听懂歌词，但音乐是没国界，大概我能感受你要表达的心情。老实说，我的英语口语真的好差，跟一位老外解释我不是她眼中的student，用了三句。从几句的交谈中，他们真的很nice，嗯，我们还留下合照
-    <!--[image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%207.jpg)-->
+    ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%207.jpg)
     ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%2018.jpg)
 ##### 皇帝岛
   唯一一日的离岛游，早早起床的我们，还没来得及吃早餐就在大堂等车。飘着小雨，还担心出不了海。在交通上，我们再次进入无语，刚出码头不到几百米船坏了一个发动机，船上紧急维修大半小时后还是老样子，只好换船，行程整整拖延了2小时。我想说我们这是泰囧吗？
@@ -65,3 +65,4 @@ tags: 旅游
 > `More courage`
 
   ![image](http://7sbydq.com1.z0.glb.clouddn.com/thailand%20-%2015.jpg)
+
