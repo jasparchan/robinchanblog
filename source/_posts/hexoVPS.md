@@ -94,7 +94,7 @@ $ ssh-keygen -t rsa -C "youremail@example.com" #一路回车就好
 ```
 # 配置语言
 language: node_js
-sudo: false
+sudo: true
 # 项目所在分支
 branches:
   only:
@@ -136,7 +136,7 @@ script:
 ### 创建站点管理者
 连接ssh，（本人vps的系统为Centos 6 x86_64 minimal）
 ```
-$ ssh vps id #输入密码
+$ ssh root@vps id #输入密码
 ```
 
 创建用户组和用户
@@ -187,6 +187,8 @@ $ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 ```
 
 Done!`logout`后，再`ssh username@hostname.com`就无需输入密码啦
+
+[另外一种方法](http://blog.csdn.net/u013066244/article/details/52796341)
 
 ### 配置nginx和git
 登陆vps（root 用户）
@@ -301,3 +303,5 @@ over
 2. [VPS(CentOS)搭建Hexo博客与Git Hooks更新（小白篇）](http://www.hansoncoder.com/2016/03/02/VPS-building-Hexo/)
 3. [ssh-keygen配合ssh_config免密码登录VPS](http://blog.csdn.net/chen_chun_guang/article/details/42297011)
 4. [用 Travis CI 自動部署網站到 GitHub](https://zespia.tw/blog/2015/01/21/continuous-deployment-to-github-with-travis/)
+
+

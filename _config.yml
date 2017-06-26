@@ -72,5 +72,5 @@ deploy:
   message: update done
   repo:
     github: git@github.com:jasparchan/jasparchan.github.io.git,master
-    gitcafe: git@git.coding.net:jasparchan/jasparchan.git,master
+    gitcafe: git@git.oschina.net:robinchan520/jasparchan.git,master
     vps: RobinChan@robinchan.cn:RobinChanBlog.git,master
