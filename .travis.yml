@@ -3,6 +3,9 @@ sudo: yes
 branches:
   only:
   - master
+cache:
+  directories:
+  - node_modules
 before_install:
 - openssl aes-256-cbc -K $encrypted_6251d2fbc36c_key -iv $encrypted_6251d2fbc36c_iv
   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
@@ -10,8 +13,8 @@ before_install:
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
 - cp .travis/ssh_config ~/.ssh/config
-- git config --global user.name "kellyzhong"
-- git config --global user.email "1192292115@qq.com"
+- git config --global user.name "jesparchan"
+- git config --global user.email "me@robinchan.cn"
 install:
 - npm install hexo-cli -g
 - npm install hexo-deployer-git --save
