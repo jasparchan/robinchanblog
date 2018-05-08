@@ -6,7 +6,7 @@
 title: 神话先生
 subtitle: 洗涤灵魂，以阳光之气待人
 description: 分享生活，分享技术
-author: Robin Chan
+author: 神话先生
 language: zh-Hans
 timezone:
 
@@ -70,7 +70,9 @@ theme: next
 deploy:
   type: git
   message: update done
+  bracnh: master
   repo:
-    github: git@github.com:jasparchan/jasparchan.github.io.git,master
-    gitcafe: git@git.oschina.net:robinchan520/jasparchan.git,master
-    vps: RobinChan@robinchan.cn:RobinChanBlog.git,master
+    # github: git@github.com:jasparchan/jasparchan.github.io.git,master
+    # gitcafe: git@gitee.com:robinchan520/jasparchan.git,master
+    # vps: RobinChan@robinchan.cn:RobinChanBlog.git,master
+    tencent: git@robinchan.cn:/home/git/blog.git
