@@ -74,5 +74,5 @@ deploy:
   repo:
     # github: git@github.com:jasparchan/jasparchan.github.io.git,master
     # gitcafe: git@gitee.com:robinchan520/jasparchan.git,master
-    # vps: RobinChan@robinchan.cn:RobinChanBlog.git,master
-    tencent: git@robinchan.cn:/home/git/blog.git
+    vps: RobinChan@robinchan.cn:RobinChanBlog.git,master
+    # tencent: git@robinchan.cn:/home/git/blog.git
