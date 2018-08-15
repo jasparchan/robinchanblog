@@ -9,6 +9,6 @@ tags: 跑到着迷
 很不幸临赛前几天感冒了，还好是小感冒。跑到5公里的时候，突然大暴雨，又开始跟清远马拉松一样湿跑。我居然不担心手机会坏掉2333...其实我这两个月都没怎么训练，想跟着一位女生跑也跟不上。最后一公里的时候，看到一位男生脸青口唇白，和医护人员一起，刷PB的心有多强烈啊。我比平时也跑快多了，但一直控制自己的速度。
 ### 终点
 还以为到了终点已经听不到欢乐颂了，休息了两分钟才听到结束提醒，顿时所有人一起欢呼！我的10KM PB成绩为46：30，近期目标跑进45：00，加油！
-![](http://7sbydq.com1.z0.glb.clouddn.com/happy10k_me.JPG)
-![](http://7sbydq.com1.z0.glb.clouddn.com/happy10k_medal.JPG)
+![](http://image.robinchan.cn/happy10k_me.JPG)
+![](http://image.robinchan.cn/happy10k_medal.JPG)
 

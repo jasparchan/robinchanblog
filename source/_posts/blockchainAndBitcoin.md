@@ -13,7 +13,7 @@ tags:
 <!-- more -->
 
 ### 去中心化
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin1.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin1.png)
 
 区块链原本是一种基于互联网的信息编码、传输、加密、解密、验证技术，但在我看来，现在已经上升到了一种“去中心化”的理念，本质上是一种理念上的革新。而比特币就是这种理念的一个具体应用。
  
@@ -68,7 +68,7 @@ tags:
 
 ### 比特币基本原理
 数字指纹和非对称加密
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin2.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin2.png)
  
 去中心化的账本还是很容易理解的，只要把所有的交易记录都记在每一台电脑的账本上，然后就可以用计算机的强大计算能力，随时随地查出每个人的余额是多少。
  
@@ -198,7 +198,7 @@ SHA算法从1993年发布它的第零代，一直到2015年发布第三代，二
  
 ### 比特币原理深入
 区块链技术
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin3.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin3.png)
 
 
 到此为止，我们去中心化账本的理想只实现了一半，并没完全实现，为什么呢？因为还有两个重大的问题没有解决。
@@ -219,7 +219,7 @@ SHA算法从1993年发布它的第零代，一直到2015年发布第三代，二
  
 为什么要叫“区块链”？因为中本聪把这个账本设计成了由一个个“信息包”首尾相连而成的长链，每一个信息包被称为一个“区块”，这些区块每一个都有唯一的编号——在比特币系统中，编号被称为高度（height），这些编号就是自然数1、2、3、4……一直往下排，不允许跳跃，也不允许中断和重复。
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin4.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin4.png)
 
 下面讲解区块的具体规则。
  
@@ -265,7 +265,7 @@ The Times 03/Jan/2009 Chancellor on brinkof second bailout for banks
 但是，我需要给你解释一下挖矿的难度，让你打消去挖矿的冲动。个人电脑的运算速度大约是每秒可以进行60万次SHA计算，也就意味着，一台个人电脑平均需要花一千万年才有可能凑出一个奥数。当然，这是一种概率计算，我不能从理论上排除某人的人品超新星爆发，只算一次奥数就中了4.7万亿亿分之一概率的奖。但我还是想劝你不要相信自己有那个命。
 
 给你看看人家专业的矿场是怎样的：
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin5.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin5.png)
 
 一个大型比特币矿场。图片来源：谷歌图片搜索
  
@@ -285,11 +285,11 @@ The Times 03/Jan/2009 Chancellor on brinkof second bailout for banks
  
 在这种情况下，相当于网络上的其他节点收到了两个合法的新区块，因为网络节点的地域分布不同，所以，不同的节点收到这两个新区块的先后次序就会不同。此时，所有的节点会暂时保留两个新区块，并且把区块链做一个临时的分叉，如下图所示：
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin6.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin6.png)
 
 接下来，比特币网络中必然又会有其中一个节点（矿机）抢到了记账权，这时该节点就会将生成的最新区块接到其中的一个分支上，那到底是接到新区块1，还是新区块2上呢？系统规则是：这个节点先收到哪个区块，就接到哪个区块上，同时放弃另一个区块，然后全网广播，如下图所示：
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin7.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin7.png)
 
 比特币网络上的所有节点在收到最新的区块链后，只要发现其中一个分支比另外一个分支多两个区块了，就立即也放弃那个短的分支。总之，比特币网络永远只承认更长的那条分支。
  
@@ -344,13 +344,13 @@ The Times 03/Jan/2009 Chancellor on brinkof second bailout for banks
  
 
 ### 区块链技术的未来前景
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin8.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin8.png)
 
  
 比特币的未来前景不是笔者想要讨论的。我在前文中一再强调，比特币只不过是区块链“去中心化理念”的一个具体应用，有些先天不足，只能说是一个优秀的应用，还谈不上是成功的应用。最终能否成功，实在不好说。
 
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/blockchainAndBitcoin9.png)
+![](http://image.robinchan.cn/blockchainAndBitcoin9.png)
 截至2018年2月27日，全球接受比特币结账的商家分布图。一共是11888家，主要分布在北美和欧洲。数据来源：
 https://coinmap.org/#/world/16.46769475/14.06250000/3/
  

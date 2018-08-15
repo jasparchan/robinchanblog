@@ -5,7 +5,7 @@ tags: Git
 ---
 > Git是目前世界上最先进的分布式版本控制系统（没有之一）。
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/git.jpeg)
+![](http://image.robinchan.cn/git.jpeg)
 从SVN来到Git的世界，谢谢[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，让我更加深刻了解Git。
 
 ### Git本地管理 
@@ -57,5 +57,5 @@ git branch -D <name> ： 强行删除分支
 ### 解决冲突
 合并分支或多人开发时，偶尔会出现冲突，这时就需要手动修改
 VS Code很赞，我一般用这个解决冲突。
-![](http://7sbydq.com1.z0.glb.clouddn.com/vccodechongtu.jpg)
+![](http://image.robinchan.cn/vccodechongtu.jpg)
 

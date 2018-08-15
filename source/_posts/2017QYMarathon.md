@@ -5,23 +5,23 @@ tags: 马拉松
 ---
 ## 报名
 报名在广马之前，那时不确定自己有跑全马的能力，所以选择的是半程马拉松。可广马之后，我以大学城两圈➕生物岛一圈完成了人生首马，信心十足，但报名已经不能更换，有点小遗憾。But，当时就有一个想法：我偷偷地跑全程，奖牌放弃。
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_me3.jpg)
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_luxian.JPG)
+![](http://image.robinchan.cn/QYMarathon_me3.jpg)
+![](http://image.robinchan.cn/QYMarathon_luxian.JPG)
 ## 决定不去
 因为一位小伙伴勾起15年国庆麦里浩经徒步的回忆（我们被大暴雨赶回来）。二话不说就报名了，然而出发时间跟马拉松冲突，唯有放弃马拉松。其实就是觉得自己没有系统的训练，应该跑不出什么好成绩，我的近期目标可是要跑进340PB成绩的哦。但计划赶不上变化，麦里浩经领队突然说取消这次活动，而小伙伴也无法调整时间，唯有回到马拉松的准备当中，可还剩一个星期的时间。我的天，好强的我肯定要出事。打印确认函、购买跑步袜、购买骑行雨衣（看了天气，全程湿跑）、购买能量胶（因为自己跑全马）、询问老司机等等
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_zhuangbei.JPG)
+![](http://image.robinchan.cn/QYMarathon_zhuangbei.JPG)
 ## 开跑前
 屁颠屁颠来到清远，下着中雨，跑鞋也湿了一半，看不到接驳车无奈打的，幸好司机送了一把伞让我安全来到马拉松博物馆领取物资。为了晚上能吹干跑鞋，果断赤脚上阵。现场在分发号码牌的妹子们也一样，哈哈。时间也来到了下午六点，他们都在忙着吃快餐。但见到我拿着确认函到前，毫不犹豫放下饭盒，搞得我多不好意思呢。机智的我们还买了拖鞋，想到明天湿跑后要用到。雨天确实带来点点麻烦，但却丝毫没有减轻清远人民和跑者们的热情。为了给自己跑完42.195的信心，我留下这张照片，并发圈。
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_bowuguan.jpg)
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_me2.JPG)
+![](http://image.robinchan.cn/QYMarathon_bowuguan.jpg)
+![](http://image.robinchan.cn/QYMarathon_me2.JPG)
 
 <!-- more -->
 
 ## 湿跑
 早早起床，坐着马拉松专车来到现场。嗯，开跑前不下雨，还是挺照顾我们的。首先来个赛前合照😀
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_hezhao2.JPG)
+![](http://image.robinchan.cn/QYMarathon_hezhao2.JPG)
 还有这个赛前蹦蹦跳的章鱼🐙
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_zhang.JPG)
+![](http://image.robinchan.cn/QYMarathon_zhang.JPG)
 
 > 晴天是好天气，雨天就不是了吗
 
@@ -30,17 +30,17 @@ tags: 马拉松
 > 人生就像马拉松，获胜的关键不在于瞬间的爆发，而在于途中的坚持
 
 But 小伙伴们都顺利完赛，并拿到奖牌，所以我也能跟奖牌来个合照
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_me.jpg)
+![](http://image.robinchan.cn/QYMarathon_me.jpg)
 原以为我是跑进了400的，可只有406。嗯，我很期待2017广马的中签，对，那是全程马拉松！
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_zhengshu.JPG)
+![](http://image.robinchan.cn/QYMarathon_zhengshu.JPG)
 
 > 赛后合照
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_hezhao.jpg)
+![](http://image.robinchan.cn/QYMarathon_hezhao.jpg)
 
 > 全程撒狗粮的小夫妻，很高兴认识你们，让湿跑也能拥有爱
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/QYMarathon_tamen.JPG)
+![](http://image.robinchan.cn/QYMarathon_tamen.JPG)
     
 
 

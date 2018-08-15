@@ -37,7 +37,7 @@ $ ssh-keygen -t rsa -C "youremail@example.com" #一路回车就好
 后面也用来免密码登陆vps
 ### 建立hexo代码库
 上面我们已经建立了hexo博客的代码库，现在需要有一个 Travis CI 的账号，直接进入 [Travis CI](https://travis-ci.org/) 官网，用自己的 Github 账号授权登录即可。然后可以看到当前账号的所有代码仓库，接下来将博客项目的状态设置为启用。如下图
-![image](http://7sbydq.com1.z0.glb.clouddn.com/opentravis.png)
+![image](http://image.robinchan.cn/opentravis.png)
 ### 配置Travis CI
 私钥（id_rsa) 需要随博客代码库提交到github，所以必须加密为好。
 刚才公钥文件配置在github，然后配置私钥文件
@@ -129,7 +129,7 @@ script:
 ```
    
 这里有一份我的 [travis](https://github.com/jasparchan/robinchanblog/blob/master/.travis.yml) 配置文件，下面是我的目录
-![image](http://7sbydq.com1.z0.glb.clouddn.com/hexoDirectory.png)
+![image](http://image.robinchan.cn/hexoDirectory.png)
    
    到这里，当我们commit hexo代码后，travis会帮我们执行`hexo clean``hexo g``hexo d`等命令。但`hexo d`，也就是部署命令，还需要做下一步
 ## 部署到VPS与Git Hooks更新

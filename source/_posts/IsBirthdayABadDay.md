@@ -3,7 +3,7 @@ title: 生日—受难日
 date: 2017-11-03 00:00:00
 tags:
 ---
-![2017](http://7sbydq.com1.z0.glb.clouddn.com/family2017.png)
+![2017](http://image.robinchan.cn/family2017.png)
 月明星稀，九月份的满月又要到来。嗯，九月十五，我的生日。
 我没曾想过自己的生日就是母亲的受难日。在这一天，我总是在为了我的诞生而庆祝而忘记母亲。
 
@@ -15,6 +15,6 @@ tags:
 
 或者眼见为实，才能明白其中的痛苦。我会珍惜那个为我生孩子的女人。因为她是冒着生命危险去生育的。
 
-![2013&2015](http://7sbydq.com1.z0.glb.clouddn.com/family20132015.png)
+![2013&2015](http://image.robinchan.cn/family20132015.png)
 
 

@@ -7,8 +7,8 @@ tags:
 ---
 这是加拿大的一则公益广告
 
-<video id="video" controls="controls" preload="none" height=100% width=100% poster="http://7sbydq.com1.z0.glb.clouddn.com/lasttenyears.png">
-      <source id="mp4" src="http://7sbydq.com1.z0.glb.clouddn.com/lasttenyears.mp4">
+<video id="video" controls="controls" preload="none" height=100% width=100% poster="http://image.robinchan.cn/lasttenyears.png">
+      <source id="mp4" src="http://image.robinchan.cn/lasttenyears.mp4">
 </video>
 {% centerquote %}
 腕表 & 病号

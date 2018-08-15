@@ -15,4 +15,4 @@ tags: 故事
 
 > 故事中的父母就跟我们大多数人一样.要去喜爱面貌较好或谈吐风趣的人很容易,但要喜欢那些造成我们不便和不快的人却太难了.但会有人没有辣么的残酷,总是无怨无悔的爱着我们,无论如何都会接纳我们,我希望那个会是你.end...
 
-<img src="http://7sbydq.com1.z0.glb.clouddn.com/IMG_2160.jpg" class="full-image" />
+<img src="http://image.robinchan.cn/IMG_2160.jpg" class="full-image" />

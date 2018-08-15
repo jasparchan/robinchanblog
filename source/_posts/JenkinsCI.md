@@ -51,7 +51,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 
 访问成功
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsInBrowser.png)
+![](http://image.robinchan.cn/static/images/JenkinsInBrowser.png)
 
 ## 安装Jenkins相关插件
 点击系统管理>管理插件>可选插件，可搜索以下插件安装
@@ -68,12 +68,12 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 ## 配置SVN仓库
 输入SVN地址后，会报错，根据提示进入另一个页面添加一个全局的SVN账号和密码。
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsSVN.png)
+![](http://image.robinchan.cn/static/images/JenkinsSVN.png)
 > 你还可以选择Git等方式拉取代码。
 
 ## 自动构建时机
 这里就是告诉jenkins什么时候自动构建,这里我同时设置了每周一到周五在每天的8点到9点之间执行一次,当然也可以不设置。
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsPollSCM.png)
+![](http://image.robinchan.cn/static/images/JenkinsPollSCM.png)
 
 ## 配置xcode - iOS专用
 ### 基本配置
@@ -83,7 +83,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 > .ipa filename pattern 随便起个.ipa的名字
 > Output directory为.ipa的输出路径
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsXcode1.png)
+![](http://image.robinchan.cn/static/images/JenkinsXcode1.png)
 > 如果你使用CocoaPods，而拉取的代码没有Pods目录，那你要在构建的最前面运行以下脚本。
 
 ```
@@ -94,17 +94,17 @@ pod install --verbose --no-repo-update
 > 这里是是使用用户的证书，jenkins会选择对应的证书进行打包${HOME}/Library/Keychains/login.keychain
 > 也可以在jenkins系统设置里面进行全局设置
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsXcode2.png)
+![](http://image.robinchan.cn/static/images/JenkinsXcode2.png)
 ### Schema
 > 需要Shared Schema文件.指定编译
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsXcode3.png)
+![](http://image.robinchan.cn/static/images/JenkinsXcode3.png)
 
 
 ## 配置gradle - Android专用
 > 需要安装gradle插件，还有必备的Android SDK
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/jenkins_gradle_config.png)
+![](http://image.robinchan.cn/static/images/jenkins_gradle_config.png)
 ${WORKSPACE}表示当前job下的workspace目录，主要是存放代码。更多的环境变量请参考文末附录。
 这样，就能自动在project下的app的build/outputs/apk下生成相应的apk.
 
@@ -117,7 +117,7 @@ ${WORKSPACE}表示当前job下的workspace目录，主要是存放代码。更�
 > 3. Execute 
 > 4. 在Commad中输入
 
-![](http://7sbydq.com1.z0.glb.clouddn.com/static/images/JenkinsBuildLater.png)
+![](http://image.robinchan.cn/static/images/JenkinsBuildLater.png)
 #### 蒲公英
 具体到官网：https://www.pgyer.com/doc/view/upload_one_command
 ```

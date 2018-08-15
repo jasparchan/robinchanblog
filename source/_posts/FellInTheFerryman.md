@@ -16,4 +16,4 @@ tags: 读书
   
   [《摆渡人》](https://book.douban.com/subject/26356948/)___来自豆瓣
   
-  ![大皇宫的天空](http://7sbydq.com1.z0.glb.clouddn.com/GrandPalaceSky)
+  ![大皇宫的天空](http://image.robinchan.cn/GrandPalaceSky)

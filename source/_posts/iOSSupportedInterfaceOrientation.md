@@ -8,7 +8,7 @@ tags:
 <!-- more -->
 ### 对横竖屏的前期准备
 * 首先要在工程设置设备支持的方向，路径project -> tagrgets -> general
-  ![](http://7sbydq.com1.z0.glb.clouddn.com/iOSSupportedInterfaceOrientation.png)
+  ![](http://image.robinchan.cn/iOSSupportedInterfaceOrientation.png)
   
 * 要控制某个 ViewController 支持横竖屏的方法需要在此 ViewController 的 rootViewController 里面重写。present 出来的 ViewController 也一样。   
 
