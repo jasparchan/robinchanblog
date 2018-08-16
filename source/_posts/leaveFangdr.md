@@ -27,7 +27,7 @@ tags:
 
 ![2015大会议室](http://image.robinchan.cn/fangdr1.png)
 <div style=" text-align:center;font-family:times;color:gery">2015大会议室</div>
-![2016大夫山野战](http://image.robinchan.cn/fangdr3.png)
+![2016大夫山野战](http://image.robinchan.cn/fangdr3dafushan.png)
 <div style=" text-align:center;font-family:times;color:gery">2016大夫山野战</div>
 ![2017红砖厂合影](http://image.robinchan.cn/fangdr2.png)
 <div style=" text-align:center;font-family:times;color:gery">2017红砖厂合影</div>
