@@ -24,7 +24,7 @@ date: 2015-07-06 17:41:10
         "game": ["LOL"] //Not play long time 
     ]
 ```
-![image](http://7sbydq.com1.z0.glb.clouddn.com/static/images/HainanCycling.JPG)
+![image](http://image.robinchan.cn/static/images/HainanCycling.JPG)
 
 
 
