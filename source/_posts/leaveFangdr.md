@@ -46,8 +46,6 @@ tags:
 <div style=" text-align:center;font-family:times;color:gery">2017年会~动物园</div>
 ![2018凤凰古城](http://image.robinchan.cn/fangdr7.png)
 <div style=" text-align:center;font-family:times;color:gery">2018凤凰古城~真性情</div>
-<video id="video" controls="controls" preload="none" height=100% width=100% poster="http://image.robinchan.cn/fangdr8.png">
-<div style=" text-align:center;font-family:times;color:gery">2017合照</div>
 <video id="video" controls="controls" preload="none" height=100% width=100% poster="http://image.robinchan.cn/fangdr8.mp4">
-
+<div style=" text-align:center;font-family:times;color:gery">2017合照</div>
 
